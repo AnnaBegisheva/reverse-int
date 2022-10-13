@@ -1,6 +1,6 @@
 # Reverse Int
 
-## Task
+## Task Description
 
 Given: number, your task is to implement function that reverse digits of this number.
 
